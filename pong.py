@@ -1,7 +1,6 @@
 # Pong Game
 # Author: Bhargava Gumpula
 # Start Date: 07/19/2020
-# End Date: ??/??/2020
 
 from tkinter import *
 from paddle import *
